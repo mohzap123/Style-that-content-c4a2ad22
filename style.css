@@ -1,0 +1,62 @@
+.navbar {
+
+    background-color: orange;
+
+    display: flex;
+
+}
+
+
+.navbar p {
+
+    font-size: 20px;
+
+    font-weight: bold;
+
+    display: flex;
+
+    flex: 1 1 0;
+
+    justify-content: space-around;
+
+}
+
+
+.content h1 {
+
+    background-color: darksalmon;
+
+}
+.content p {
+
+    justify-content: flex-start;
+
+    width: 100%
+
+}
+
+
+.content {
+
+    background-color: darksalmon;
+
+    display: flex;
+
+    flex-direction: row;
+
+    width: 100%;
+
+    flex-wrap: wrap;
+
+    justify-content: space-around;
+
+    
+
+}
+
+
+.news {
+
+    width: 30%;
+
+}
